@@ -8,3 +8,4 @@ def write_data_to_csv():
 
 write_data_to_csv()
 
+
